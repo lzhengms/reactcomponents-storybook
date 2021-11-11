@@ -10,6 +10,7 @@
 
 * 处理最新的gulp编译构建 ([4ba2de1](https://github.com/lzhengms/reactcomponents-storybook/commit/4ba2de1490dc7b5ed40cf2fdc7efece59f7fd6d8))
 * 删除changelog ([dbc41b5](https://github.com/lzhengms/reactcomponents-storybook/commit/dbc41b59bb0818c08b1f550248d1d07fcc9f141b))
+* remove rollup相关 ([c050341](https://github.com/lzhengms/reactcomponents-storybook/commit/c0503413357accbd2fc6e637262747a4e4927ea2))
 
 
 

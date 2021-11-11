@@ -36,6 +36,25 @@ import 'react-components/lib/components/Button/index.less'
 
 可以配置babel-plugin-import做引入
 
+## 本地调试
+
+ 1、npm run storybook 
+
+ 2、 可以直接调试组件代码
+
+## 想再项目中直接使用看效果
+
+1、在当前的这个组件库目录下运行 npm link
+
+2、在cra创建的项目，使用craco来做babel-plugin-import的babel配置的重写
+
+3、在cra创建的项目下，使用 npm link react-components
+
+4、在cra创建的项目下, 引入 import { Button } from 'react-components'
+
+5、在cra创建的项目下，运行 npm start 即可按需加载对应的库了
+
+
 
 
 

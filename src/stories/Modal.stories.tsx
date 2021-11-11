@@ -1,8 +1,8 @@
 import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
-import { Modal } from '../components/Modal';
-import '../components/Modal/index.less';
+import { default as Modal } from '../components/Modal';
+import '../components/Modal/style/index.less';
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {

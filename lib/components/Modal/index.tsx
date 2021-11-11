@@ -25,10 +25,11 @@ interface ModalProps {
 /**
  * Primary UI component for user interaction
  */
-export const Modal = ({
+const Modal = ({
   ...props
 }: ModalProps) => {
   return (
     <div className='modal'>这是一个弹窗</div>
   );
 };
+export default Modal
