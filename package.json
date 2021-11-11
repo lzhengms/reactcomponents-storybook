@@ -11,7 +11,8 @@
     "rollup-production-build": "cross-env NODE_ENV=production rollup -c",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "plop": "plop"
+    "plop": "plop",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
   },
   "files": [
     "dist",
