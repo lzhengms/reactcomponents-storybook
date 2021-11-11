@@ -11,8 +11,11 @@
 ## 自动生成changelog
 
 1、 git add .
+
 2、 git cz
+
 3、 npm run changelog
+
 4、 git push -u origin main
 ## gulp、babel进行编译构建
 
@@ -21,9 +24,11 @@
 ## 如何使用组件库
 
 import { Button } from 'react-components/lib/components/Button'
+
 import 'react-components/lib/components/Button/index.css'
 
 也可以引入less文件
+
 import 'react-components/lib/components/Button/index.less'
 
 
