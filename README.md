@@ -7,5 +7,12 @@
 
 1、 npm run build-storybook
 
-## gulp进行编译
+
+## 自动生成changelog
+
+1、 git add .
+2、 git cz
+3、 npm run changelog
+4、 git push -u origin main
+## gulp、babel进行编译
 
