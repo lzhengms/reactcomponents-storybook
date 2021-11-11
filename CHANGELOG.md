@@ -3,6 +3,7 @@
 
 ### Bug Fixes
 
+* 修改成类似ant组件库的输出模式，用于按需加载 ([0162d13](https://github.com/lzhengms/reactcomponents-storybook/commit/0162d130aafa230de5da75939c7f24fa78f581f8))
 * 修改构建凡事 ([da9d747](https://github.com/lzhengms/reactcomponents-storybook/commit/da9d747c44257e8af0fb2a23c5393a8eccbb10ce))
 
 
